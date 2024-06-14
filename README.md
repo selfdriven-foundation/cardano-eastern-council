@@ -21,13 +21,10 @@ Template: [skillzeb.io/template-explorer/resource-cardano-icc-ec-registers](http
 
 ## Maps
 
-<a href="images/map-english.jpg"><img src="images/map-english.jpg" alt="english" width="50%"/></a>
+<table><tr><td><a href="images/map-english.jpg"><img src="images/map-english.jpg" alt="english" width="100%"/></a></td><td><a href="images/map-japanese.jpg"><img src="images/map-japanese.jpg" alt="japanese" width="100%"/></a></td></tr>
 
-<a href="images/map-japanese.jpg"><img src="images/map-japanese.jpg" alt="japanese" width="50%"/></a>
-
-<a href="images/map-korean.jpg"><img src="images/map-korean.jpg" alt="korean" width="50%"/></a>
-
-<a href="images/map-vietnamese.jpg"><img src="images/map-vietnamese.jpg" alt="vietnamese" width="50%"/></a>
+<tr><td><a href="images/map-korean.jpg"><img src="images/map-korean.jpg" alt="korean" width="100%"/></a></td><td>
+<a href="images/map-vietnamese.jpg"><img src="images/map-vietnamese.jpg" alt="vietnamese" width="100%"/></a></td></tr></table>
 
 ## Notes
 1. This repository is being hosted by the [selfdriven Foundation](https://selfdriven.foundation) as a community service.
