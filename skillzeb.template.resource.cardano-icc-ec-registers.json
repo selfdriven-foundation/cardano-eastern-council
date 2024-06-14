@@ -33,8 +33,8 @@
 				"Society & Culture"
 			],
 			"usage": "Registers and resources supporting the Eastern Council Governance Framework",
-			"url": "https://skillzeb.io/template-explorer/cardano-interim-constitutional-committee-eastern-council-governance-registers",
-			"urlcaption": "skillzeb.io/template-explorer/cardano-interim-constitutional-committee-eastern-council-governance-registers",
+			"url": "https://skillzeb.io/template-explorer/cardano-interim-constitutional-committee-eastern-council-governance",
+			"urlcaption": "skillzeb.io/template-explorer/cardano-interim-constitutional-committee-eastern-council-governance",
 			"languages": {
 				"human": [
 					"en"
@@ -42,7 +42,7 @@
 				"machine": []
 			},
 			"orginator": {
-				"name": "selfdriven Octo",
+				"name": "CICC EC",
 				"sdi": ""
 			},
 			"resources": [
@@ -262,21 +262,7 @@
 						}
 					]
 				}
-			],
-			"skills": {
-				"gained": [
-					{
-						"uri": "",
-						"name": "",
-						"sdi": "",
-						"level": "0",
-						"capacity": "00",
-						"scope": {
-							"year": ""
-						}
-					}
-				]
-			}
+			]
 		}
 	}
 }

@@ -22,7 +22,7 @@
 				"type": "Creative Commons CC0",
 				"description": "Creative Commons CC0 Universal (Public Domain Dedication).",
 				"notes": "Created by CICC EC.",
-				"url": "https://reativecommons.org/publicdomain/zero/1.0"
+				"url": "https://creativecommons.org/publicdomain/zero/1.0"
 			},
 			"domains": [
 				"Civics-Citizenship",
@@ -86,14 +86,16 @@
 				"resources": [
 					{
 						"name": "overview",
-						"url": "https://github.com/selfdriven-foundation/cicc-ec/cicc-ec-goverance-framework-1.0.0.pdf"
+						"notes": "PDF version of this governance template",
+						"url": "https://github.com/selfdriven-foundation/cicc-ec/blob/main/cicc-ec-goverance-framework-1.0.0.pdf"
 					},
 					{
-						"type": "-ardano-interim-constitution-document",
+						"type": "cardano-interim-constitution-document",
+						"notes": "Waiting for it to be released.",
 						"name": "xxxx.pdf",
 						"url": "ipfs://abcd",
 						"hash": {
-							"type": "sha-256",
+							"type": "xxx",
 							"value": ""
 						},
 						"sdd": ""
