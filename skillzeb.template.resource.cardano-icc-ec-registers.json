@@ -1,0 +1,282 @@
+﻿{
+	"template": {
+		"definition": {
+			"type": "resource",
+			"name": "resource-cardano-icc-ec-registers",
+			"title": "Cardano Interim Constitutional Committee - Eastern Council Registers",
+			"version": {
+				"number": "1.0.0",
+				"name": "jun-2024",
+				"notes": "Initial set up"
+			},
+			"source": {
+				"sharing": {
+					"type": "Creative Commons CC0",
+					"description": "Creative Commons CC0 Universal (Public Domain Dedication)."
+				},
+				"name": "",
+				"notes": "",
+				"url": ""
+			},
+			"sharing": {
+				"type": "Creative Commons CC0",
+				"description": "Creative Commons CC0 Universal (Public Domain Dedication).",
+				"notes": "Created by CICC EC.",
+				"url": "https://reativecommons.org/publicdomain/zero/1.0"
+			},
+			"domains": [
+				"Civics-Citizenship",
+				"Governance",
+				"Information Sciences",
+				"Information Technology",
+				"Infrastructure",
+				"Society & Culture"
+			],
+			"usage": "Registers and resources supporting the Eastern Council Governance Framework",
+			"url": "https://skillzeb.io/template-explorer/cardano-interim-constitutional-committee-eastern-council-governance-registers",
+			"urlcaption": "skillzeb.io/template-explorer/cardano-interim-constitutional-committee-eastern-council-governance-registers",
+			"languages": {
+				"human": [
+					"en"
+				],
+				"machine": []
+			},
+			"orginator": {
+				"name": "selfdriven Octo",
+				"sdi": ""
+			},
+			"resources": [
+				{
+					"subject": "Countries Register",
+					"name": "cardano-interim-constitutional-committee-eastern-council-governance-register-countries",
+					"data": [
+						{
+							"reference": 1,
+							"name": "Australia",
+							"region": "Oceania"
+						},
+						{
+							"reference": 2,
+							"name": "New Zealand",
+							"region": "Oceania"
+						},
+						{
+							"reference": 3,
+							"name": "Papua New Guinea",
+							"region": "Oceania"
+						},
+						{
+							"reference": 4,
+							"name": "Fiji",
+							"region": "Oceania"
+						},
+						{
+							"reference": 5,
+							"name": "Solomon Islands",
+							"region": "Oceania"
+						},
+						{
+							"reference": 6,
+							"name": "Vanuatu",
+							"region": "Oceania"
+						},
+						{
+							"reference": 7,
+							"name": "Samoa",
+							"region": "Oceania"
+						},
+						{
+							"reference": 8,
+							"name": "Kiribati",
+							"region": "Oceania"
+						},
+						{
+							"reference": 9,
+							"name": "Tonga",
+							"region": "Oceania"
+						},
+						{
+							"reference": 10,
+							"name": "Marshall Islands",
+							"region": "Oceania"
+						},
+						{
+							"reference": 11,
+							"name": "Micronesia",
+							"region": "Oceania"
+						},
+						{
+							"reference": 12,
+							"name": "Nauru",
+							"region": "Oceania"
+						},
+						{
+							"reference": 13,
+							"name": "Palau",
+							"region": "Oceania"
+						},
+						{
+							"reference": 14,
+							"name": "Tuvalu",
+							"region": "Oceania"
+						},
+						{
+							"reference": 15,
+							"name": "Cook Islands",
+							"region": "Pacific nations"
+						},
+						{
+							"reference": 16,
+							"name": "Niue",
+							"region": "Pacific nations"
+						},
+						{
+							"reference": 17,
+							"name": "French Polynesia",
+							"region": "Pacific nations"
+						},
+						{
+							"reference": 18,
+							"name": "Guam",
+							"region": "Pacific nations"
+						},
+						{
+							"reference": 19,
+							"name": "New Caledonia",
+							"region": "Pacific nations"
+						},
+						{
+							"reference": 20,
+							"name": "Northern Mariana Islands",
+							"region": "Pacific nations"
+						},
+						{
+							"reference": 21,
+							"name": "Pitcairn Islands",
+							"region": "Pacific nations"
+						},
+						{
+							"reference": 22,
+							"name": "Tokelau",
+							"region": "Pacific nations"
+						},
+						{
+							"reference": 23,
+							"name": "Wallis and Futuna",
+							"region": "Pacific nations"
+						},
+						{
+							"reference": 24,
+							"name": "China",
+							"region": "East Asia"
+						},
+						{
+							"reference": 25,
+							"name": "Japan",
+							"region": "East Asia"
+						},
+						{
+							"reference": 26,
+							"name": "South Korea",
+							"region": "East Asia"
+						},
+						{
+							"reference": 27,
+							"name": "North Korea",
+							"region": "East Asia"
+						},
+						{
+							"reference": 28,
+							"name": "Mongolia",
+							"region": "East Asia"
+						},
+						{
+							"reference": 29,
+							"name": "Taiwan",
+							"region": "East Asia"
+						},
+						{
+							"reference": 30,
+							"name": "Hong Kong (SAR, China)",
+							"region": "East Asia"
+						},
+						{
+							"reference": 31,
+							"name": "Macau (SAR, China)",
+							"region": "East Asia"
+						},
+						{
+							"reference": 32,
+							"name": "Vietnam",
+							"region": "East Asia"
+						},
+						{
+							"reference": 33,
+							"name": "Indonesia",
+							"region": "Southeast Asia"
+						},
+						{
+							"reference": 34,
+							"name": "Philippines",
+							"region": "Southeast Asia"
+						},
+						{
+							"reference": 35,
+							"name": "Thailand",
+							"region": "Southeast Asia"
+						},
+						{
+							"reference": 36,
+							"name": "Malaysia",
+							"region": "Southeast Asia"
+						},
+						{
+							"reference": 37,
+							"name": "Singapore",
+							"region": "Southeast Asia"
+						},
+						{
+							"reference": 38,
+							"name": "Brunei",
+							"region": "Southeast Asia"
+						},
+						{
+							"reference": 39,
+							"name": "Cambodia",
+							"region": "Southeast Asia"
+						},
+						{
+							"reference": 40,
+							"name": "Laos",
+							"region": "Southeast Asia"
+						},
+						{
+							"reference": 41,
+							"name": "Myanmar (Burma)",
+							"region": "Southeast Asia"
+						},
+						{
+							"reference": 42,
+							"name": "Timor-Leste (East Timor)",
+							"region": "Southeast Asia"
+						}
+					]
+				}
+			],
+			"skills": {
+				"gained": [
+					{
+						"uri": "",
+						"name": "",
+						"sdi": "",
+						"level": "0",
+						"capacity": "00",
+						"scope": {
+							"year": ""
+						}
+					}
+				]
+			}
+		}
+	}
+}

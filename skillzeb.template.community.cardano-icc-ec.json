@@ -1,0 +1,252 @@
+﻿{
+	"template": {
+		"definition": {
+			"type": "community",
+			"name": "community-cardano-icc-ec",
+			"title": "Cardano Interim Constitutional Committee - Eastern Council",
+			"version": {
+				"number": "1.0.0",
+				"name": "jun-2024",
+				"notes": "Initial set up"
+			},
+			"source": {
+				"sharing": {
+					"type": "Creative Commons CC0",
+					"description": "Creative Commons CC0 Universal (Public Domain Dedication)."
+				},
+				"name": "",
+				"notes": "",
+				"url": ""
+			},
+			"sharing": {
+				"type": "Creative Commons CC0",
+				"description": "Creative Commons CC0 Universal (Public Domain Dedication).",
+				"notes": "Created by CICC EC.",
+				"url": "https://reativecommons.org/publicdomain/zero/1.0"
+			},
+			"domains": [
+				"Civics-Citizenship",
+				"Governance",
+				"Information Sciences",
+				"Information Technology",
+				"Infrastructure",
+				"Society & Culture"
+			],
+			"usage": "A part of the Eastern Council Governance Framework",
+			"summary": "Cardano Interim Constitutional Committee, Eastern Council Governance Framework",
+			"description": "Governance framework in regards to the Cardano Interim Constitutional Committee - Eastern Council (CICC-EC).",
+			"purpose": "The purpose of the CICC-EC is to approve or reject (via an on-chain vote) the Cardano community's on-chain governance proposals. Approval or rejection signals that a proposal is or is not constitutional according to the Cardano Interim Constitution.",
+			"approved-by": [
+				{
+					"sdi": ""
+				}
+			],
+			"sdt": "",
+			"notes": "",
+			"contracts": [
+				{
+					"type": "technical",
+					"core": "true",
+					"description": "Cardano Interim Constitution"
+				}
+			],
+			"spaces": {
+				"virtual": [
+					{
+						"name": "space-virtual-telegram",
+						"caption": "Team Collaboration on Telegram"
+					}
+				],
+				"physical": []
+			},
+			"governance": {
+				"structure-types": [
+					{
+						"name": "council",
+						"title": "Council"
+					},
+					{
+						"name": "committee",
+						"title": "Committee"
+					}
+				],
+				"structures": [
+					{
+						"name": "structure-cardano-interim-constitutional-committee",
+						"title": "Cardano Interim Constitutional Committee",
+						"type": "committee"
+					},
+					{
+						"name": "structure-council",
+						"title": "CICC Eastern Council",
+						"type": "council",
+						"parent-name": "board"
+					}
+				],
+				"resources": [
+					{
+						"name": "overview",
+						"url": "https://github.com/selfdriven-foundation/cicc-ec/cicc-ec-goverance-framework-1.0.0.pdf"
+					},
+					{
+						"type": "-ardano-interim-constitution-document",
+						"name": "xxxx.pdf",
+						"url": "ipfs://abcd",
+						"hash": {
+							"type": "sha-256",
+							"value": ""
+						},
+						"sdd": ""
+					},
+					{
+						"name": "shared-google-drive",
+						"url": "https://drive.google.com/drive/u/0/folders/18qOET7iwIi1Z1OBcH7N1jygjfo3E-5tP"
+					},
+					{
+						"name": "resource-cardano-icc-ec-registers",
+						"url": "https://skillzeb.io/template-explorer/cardano-interim-constitutional-committee-eastern-council-governance-registers"
+					}
+				],
+				"rules": [
+					{
+						"reference": "1",
+						"actions": [
+							{
+								"name": "1",
+								"description": "This framework (template) can only be changed with agreement of at least 80% of the council members - i.e. with six(6) team members it requires five(5) team members to agree."
+							}
+						],
+						"token": {
+							"name": "Eastern Council Member"
+						},
+						"minimum-percentage-of-total": "80",
+						"multiplier": "1",
+						"skills": [
+							{
+								"type": "must-have",
+								"sdi": "",
+								"name": "Council Member (Governance)",
+								"issued-by": {
+									"sdi": "",
+									"name": "Eastern Council Members"
+								}
+							}
+						]
+					},
+					{
+						"reference": "2",
+						"description": "Members must engage with discussions and the voting process. If any member does not engage with three(3) consecutive votes and does not have rationale for not voting approved by the other members, they will be removed from the council."
+					},
+					{
+						"reference": "3",
+						"description": "Votes are only to approve or disapprove a community governance action in accordance with the “Cardano Interim Constitution”, member opinions are not considered as part of this validity check."
+					},
+					{
+						"reference": "4",
+						"description": "Council votes are submitted on-chain as an ICC member via an cryptographic signing process when 60% of the members agree. i.e for a council of six(6) members this would be four(4) of the members votes agree."
+					},
+					{
+						"reference": "5",
+						"description": "Member votes totalled by approve/reject will be shared with the Cardano community as part of the vote, including the rationale - all this data will also be Blake2b-256 hashed for verification and future referencing."
+					},
+					{
+						"reference": "6",
+						"description": "All public communication needs to be approved by 80% of the members."
+					},
+					{
+						"reference": "7",
+						"description": "One of the members will be responsible for public communications as the CICC-EC via email and social channels."
+					}
+				],
+				"team": [
+					{
+						"role": "notetaker",
+						"entity-type": "machine",
+						"name": "",
+						"description": "",
+						"sdi": ""
+					},
+					{
+						"role": "composition",
+						"entity-type": "human",
+						"description":
+						[
+							"1. The council has been initiated with six(6) team members from Japan (1), South Korea (1), Vietnam (1), Australia (2) & New Zealand (1).",
+							"2. The council in this interim stage will have a maximum of eight(8) team members.",
+							"3. The council will have a minimum of five(5) members.",
+							"4. If the number of members falls below the minimum then the council as a whole will resign from the ICC.",
+							"5. A maximum of two(2) members from any one country.",
+							"6. Members must be a resident of one of the countries in the CICC-EC Country register.",
+							"7. New members need to be agreed to by 100% of the council members.",
+							"8. Members shall be a minimum of 18 years old and have identity validated using nation-state identification documents.",
+							"9. Members shall have an evidenced two(2) years of experience within the Cardano community."
+						]
+					}
+				],
+				"conflicts": [
+					{
+						"reference": "1",
+						"description": "If a conflict-of-interest does occur it is registered by the member with the council."
+					},
+					{
+						"reference": "2",
+						"description": "Any inter-member conflicts are to be acknowledged with the council and a member is elected to facilitate a resolution to the conflict."
+					}
+				],
+				"accountability": [
+					{
+						"reference": "1",
+						"description": "All discussions and resolutions to be documented and include standard control information i.e dates, version numbers."
+					},
+					{
+						"reference": "2",
+						"description": "All internal documents are confidential/private by default."
+					},
+					{
+						"reference": "3",
+						"description": "All decisions, with the rationale, are shared with the Cardano community as part of our voting process."
+					},
+					{
+						"reference": "4",
+						"description": "All documents are hashed using Blake2b-256 for independent and future referencing."
+					},
+					{
+						"reference": "5",
+						"description": "One of the members will be responsible for documentation."
+					},
+					{
+						"reference": "6",
+						"description": "All documentation will be stored on a shared private Google Drive."
+					},
+						{
+						"reference": "6",
+						"description": "Registers of key information will be kept - i.e. member details, responsibilities, voting participation, decisions, countries etc"
+					}
+				],
+				"reflection": [
+					{
+						"reference": "1",
+						"description": "We periodically review the council for performance and fit-for-purpose checks."
+					},
+					{
+						"reference": "2",
+						"description": "One of the members is responsible for ensuring reviews occur at least once every four(4) months."
+					},
+					{
+						"reference": "3",
+						"description": "Review actions are implemented if 60% of the members agree - this does not include this charter, see “Rules” section."
+					}
+				]
+			},
+			"entity-types": [
+				"human",
+				"machine"
+			],
+			"standards": [
+				"UNDHR",
+				"UNDR",
+				"ISO27001"
+			]
+		}
+	}
+}
