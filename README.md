@@ -13,7 +13,7 @@ Template:
 Template: [skillzeb.io/template-explorer/resource-cardano-icc-ec-registers](https://skillzeb.io/template-explorer/resource-cardano-icc-ec-registers)
 >BLAKE2b-256 Hash: e34e460a2f0fed654e397f63ca141e95aea661d07fbcad06bbd47a6427550327
 
-## Languages Spoken By Council Members
+## Languages Spoken by Council Members
 - English
 - Japanese
 - Korean
