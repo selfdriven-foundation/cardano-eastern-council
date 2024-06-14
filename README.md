@@ -16,3 +16,7 @@ Template: [skillzeb.io/template-explorer/resource-cardano-icc-ec-registers](http
 ## Notes
 1. This repository is being hosted by the [selfdriven Foundation](https://selfdriven.foundation) as a community service.
 2. The selfdriven Foundation itself is not a part of the Cardano Eastern Council.
+
+## Shared As
+
+- [CreativeCommons CC0 (Public Domain)](https://creativecommons.org/public-domain/cc0)
