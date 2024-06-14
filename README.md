@@ -13,10 +13,6 @@ Template:
 Template: [skillzeb.io/template-explorer/resource-cardano-icc-ec-registers](https://skillzeb.io/template-explorer/resource-cardano-icc-ec-registers)
 >BLAKE2b-256 Hash: e34e460a2f0fed654e397f63ca141e95aea661d07fbcad06bbd47a6427550327
 
-## Notes
-1. This repository is being hosted by the [selfdriven Foundation](https://selfdriven.foundation) as a community service.
-2. The selfdriven Foundation itself is not a part of the Cardano Eastern Council.
-
 ## Languages Spoken By Council Members
 - English
 - Japanese
@@ -32,6 +28,10 @@ Template: [skillzeb.io/template-explorer/resource-cardano-icc-ec-registers](http
 <a href="images/map-korean.jpg"><img src="images/map-korean.jpg" alt="korean" width="50%"/></a>
 
 <a href="images/map-vietnamese.jpg"><img src="images/map-vietnamese.jpg" alt="vietnamese" width="50%"/></a>
+
+## Notes
+1. This repository is being hosted by the [selfdriven Foundation](https://selfdriven.foundation) as a community service.
+2. The selfdriven Foundation itself is not a part of the Cardano Eastern Council.
 
 ## Shared As
 
