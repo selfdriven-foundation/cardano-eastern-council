@@ -86,14 +86,17 @@
 				"resources": [
 					{
 						"name": "overview",
+						"subject": "Overview",
 						"notes": "PDF version of this governance template",
+						"urlCaption": "github.com/selfdriven-foundation/cardano-eastern-council/blob/main/cicc-ec-goverance-framework-1.0.0.pdf",
 						"url": "https://github.com/selfdriven-foundation/cardano-eastern-council/blob/main/cicc-ec-goverance-framework-1.0.0.pdf"
 					},
 					{
-						"type": "cardano-interim-constitution-document",
+						"name": "cardano-interim-constitution-document",
 						"notes": "Waiting for it to be released.",
-						"name": "xxxx.pdf",
+						"subject": "Cardano Interim Constitution Document",
 						"url": "ipfs://abcd",
+						"urlCaption": "xxxx.pdf",
 						"hash": {
 							"type": "xxx",
 							"value": ""
@@ -101,21 +104,33 @@
 						"sdd": ""
 					},
 					{
-						"name": "shared-google-drive",
-						"url": "https://drive.google.com/drive/u/0/folders/18qOET7iwIi1Z1OBcH7N1jygjfo3E-5tP"
+						"name": "shared-documents",
+						"subject": "Documents",
+						"urlCaption": "github.com/selfdriven-foundation/cardano-eastern-council",
+						"url": "https://github.com/selfdriven-foundation/cardano-eastern-council"
 					},
 					{
 						"name": "resource-cardano-icc-ec-registers",
+						"subject": "skillzeb Template",
+						"urlCaption": "skillzeb.io/template-explorer/cardano-interim-constitutional-committee-eastern-council-governance-registers",
 						"url": "https://skillzeb.io/template-explorer/cardano-interim-constitutional-committee-eastern-council-governance-registers"
-					}
+					},
+					{
+						"name": "multi-sig-script-voting",
+						"subject": "Multi-Sig Script Voting",
+						"notes": "Multi-signature address (script) for signing of the orchestrated vote (using X508 certs) as agreed by the council members, based on the CICC-EC rules.",
+						"urlCaption": "github.com/selfdriven-foundation/cardano-eastern-council",
+						"url": "https://github.com/selfdriven-foundation/cardano-eastern-council"
+					}					
 				],
 				"rules": [
 					{
 						"reference": "1",
+						"description": "This framework (template) can only be changed with agreement of at least 80% of the council members - i.e. with six(6) team members it requires five(5) team members to agree.",
 						"actions": [
 							{
 								"name": "1",
-								"description": "This framework (template) can only be changed with agreement of at least 80% of the council members - i.e. with six(6) team members it requires five(5) team members to agree."
+								"description": "change-agreement"
 							}
 						],
 						"token": {
@@ -158,6 +173,10 @@
 					{
 						"reference": "7",
 						"description": "One of the members will be responsible for public communications as the CICC-EC via email and social channels."
+					},
+					{
+						"reference": "8",
+						"description": "The council will report any information as required by the Interim Constitutional Committee in a timely manner."
 					}
 				],
 				"team": [
@@ -232,10 +251,14 @@
 					},
 					{
 						"reference": "2",
-						"description": "One of the members is responsible for ensuring reviews occur at least once every four(4) months."
+						"description": "We periodically review this framework for effectiveness and validity."
 					},
 					{
 						"reference": "3",
+						"description": "One of the members is responsible for ensuring reviews occur at least once every four(4) months."
+					},
+					{
+						"reference": "4",
 						"description": "Review actions are implemented if 60% of the members agree - this does not include this charter, see “Rules” section."
 					}
 				]
