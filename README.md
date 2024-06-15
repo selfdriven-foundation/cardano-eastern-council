@@ -2,8 +2,10 @@
 
 Information relating to the nomination for a seat on the Cardano Interim Constitutional Committee.
 
+[Member Profiles (PDF)](cicc-ec-member-profiles-1.0.0.pdf)
+
 ## Governance Framework
-[cicc-ec-goverance-framework-1.0.0.pdf](https://github.com/selfdriven-foundation/cardano-eastern-council/blob/main/cicc-ec-goverance-framework-1.0.0.pdf)
+[Goverance Framework 1.0 (PDF)](https://github.com/selfdriven-foundation/cardano-eastern-council/blob/main/cicc-ec-goverance-framework-1.0.0.pdf)
 
 Template:
 [skillzeb.io/template-explorer/community-cardano-icc-ec](https://skillzeb.io/template-explorer/community-cardano-icc-ec)
