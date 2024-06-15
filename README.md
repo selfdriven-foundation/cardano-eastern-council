@@ -2,7 +2,7 @@
 
 > Also known as the Eastern Cardano Council
 
-**Information relating to the nomination for a seat on the Cardano Interim Constitutional Committee as the "[Eastern Cardano Council](https://intersect.gitbook.io/2024-constitutional-committee-members-election/candidates/eastern-cardano-council)".**
+Information relating to the nomination for a seat on the Cardano Interim Constitutional Committee as the "[Eastern Cardano Council](https://intersect.gitbook.io/2024-constitutional-committee-members-election/candidates/eastern-cardano-council)".
 
 [Member Profiles (PDF)](cicc-ec-member-profiles-1.0.0.pdf)
 
