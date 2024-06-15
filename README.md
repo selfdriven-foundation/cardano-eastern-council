@@ -1,4 +1,4 @@
-# Cardano Eastern Council
+# Cardano Eastern Council (aka Eastern Cardano Council)
 
 Information relating to the nomination for a seat on the Cardano Interim Constitutional Committee.
 
