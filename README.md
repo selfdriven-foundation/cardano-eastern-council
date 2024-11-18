@@ -1,3 +1,8 @@
+This repository has moved to:
+https://github.com/Eastern-Cardano-Council
+
+</hr>
+
 # Cardano Eastern Council
 
 > Also known as the Eastern Cardano Council
