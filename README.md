@@ -1,6 +1,4 @@
-<div style="padding: 10px; background-color: #f8d7da; border-radius: 5px; border: 1px solid #f5c6cb; color: #721c24;">
-  <strong>This repository has moved to:</strong> [github.com/Eastern-Cardano-Council](https://github.com/Eastern-Cardano-Council)
-</div>
+> <strong>This repository has moved to:</strong> [github.com/Eastern-Cardano-Council](https://github.com/Eastern-Cardano-Council)
 
 # Cardano Eastern Council
 
