@@ -1,6 +1,6 @@
-> This repository has moved to: https://github.com/Eastern-Cardano-Council
-
-</hr>
+<div style="padding: 10px; background-color: #f8d7da; border-radius: 5px; border: 1px solid #f5c6cb; color: #721c24;">
+  <strong>This repository has moved to:</strong> [This is an alert box.](https://github.com/Eastern-Cardano-Council)
+</div>
 
 # Cardano Eastern Council
 
