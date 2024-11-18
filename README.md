@@ -1,5 +1,4 @@
-This repository has moved to:
-https://github.com/Eastern-Cardano-Council
+> This repository has moved to: https://github.com/Eastern-Cardano-Council
 
 </hr>
 
